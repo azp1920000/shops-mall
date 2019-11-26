@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://106.13.123.121:3306/test1?serverTimezone=UTC
+    username: root
+    password: fengpt
+
